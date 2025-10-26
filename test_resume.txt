@@ -1,0 +1,31 @@
+John Doe
+Software Engineer
+
+Professional Summary:
+Experienced software engineer with 5 years of expertise in Python, JavaScript, and React. Passionate about building scalable web applications and solving complex problems.
+
+Skills:
+- Programming: Python, JavaScript, Java
+- Web Development: React, Node.js, HTML, CSS
+- Databases: PostgreSQL, MongoDB
+- Tools: Git, Docker, AWS
+
+Experience:
+Senior Software Engineer at Tech Corp (2020-Present)
+- Developed and maintained web applications using React and Python
+- Led a team of 3 developers on microservices architecture
+- Improved application performance by 40%
+
+Software Engineer at Startup Inc (2018-2020)
+- Built REST APIs using Flask and Django
+- Implemented CI/CD pipelines with Jenkins
+- Collaborated with cross-functional teams
+
+Education:
+Bachelor of Science in Computer Science
+University of Technology, 2018
+
+Contact:
+Email: john.doe@email.com
+Phone: (555) 123-4567
+LinkedIn: linkedin.com/in/johndoe
