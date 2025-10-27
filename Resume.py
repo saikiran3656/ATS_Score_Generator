@@ -644,9 +644,10 @@ def analyze_resume(resume_text: str, jd_text: str = "", target_role: str = "Auto
 
 
 # Initialize models when module is imported (optional)
-try:
-    initialize_models()
-except Exception as e:
-    print(f"Warning: Could not initialize models: {e}")
-    print("Continuing without AI models - basic functionality will work")
+# Commented out to avoid memory issues on deployment
+# try:
+#     initialize_models()
+# except Exception as e:
+#     print(f"Warning: Could not initialize models: {e}")
+#     print("Continuing without AI models - basic functionality will work")
 
